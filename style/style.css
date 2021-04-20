@@ -8,4 +8,7 @@
   .text-white-70 {
     color: rgba(255,255,255,0.7)
   }
-    
+  .fill-80-viewport {
+    min-height: 80vh
+  }
+  
